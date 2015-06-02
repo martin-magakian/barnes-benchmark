@@ -1,0 +1,16 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+
+[[bin]]
+
+name = "hello_world"
+
+
+[dependencies]
+
+barnes = "0.1.0"
+rand = "0.3"
+time = "0.1"
